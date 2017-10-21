@@ -154,7 +154,6 @@ INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT LikelihoodRatioTest.toc
 INPUT LikelihoodRatioTest.toc
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
-OUTPUT LikelihoodRatioTest.toc
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
@@ -174,5 +173,9 @@ INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+OUTPUT LikelihoodRatioTest.toc
 OUTPUT LikelihoodRatioTest.dvi
+INPUT c:/texlive/2015/texmf-dist/fonts/tfm/ptex/standard/tgoth10.tfm
+INPUT c:/texlive/2015/texmf-dist/fonts/tfm/ptex/standard/goth10.tfm
+INPUT c:/texlive/2015/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT LikelihoodRatioTest.aux
